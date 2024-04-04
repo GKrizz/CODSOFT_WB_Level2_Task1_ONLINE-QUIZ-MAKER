@@ -14,7 +14,10 @@ Online Quiz Maker is a web application that allows users to create and take quiz
 
 ## Demo
 
-For a live demo, visit [Online Quiz Maker Demo](https://your-demo-link.com).
+For a live demo, visit [Online Quiz Maker Demo]([https://your-demo-link.com](https://gkrizz.github.io/CODSOFT_WB_Level2_Task2_ONLINE-QUIZ-MAKER/).
 
 
 
+## Acknowledgements
+
+This project was completed as part of the CodSoft Internship Program. Special thanks to CodSoft for providing this opportunity.
